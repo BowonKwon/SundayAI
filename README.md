@@ -6,6 +6,6 @@
 
 ### List
 * Apr 14, 2024    
- Causal Inference for The Brave and True (Facure), Ch 19 Evaluating Causal Models
+ Causal Inference for The Brave and True (Facure), Ch19 Evaluating Causal Models
 * Dec 17, 2023 & Jan 7, 2024    
- Deep Learning with PyTorch (Stevens, Antiga, Viehmann), Ch 13 Using Segmentation to Find Suspected Nodules
+ Deep Learning with PyTorch (Stevens, Antiga, Viehmann), Ch13 Using Segmentation to Find Suspected Nodules
