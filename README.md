@@ -5,6 +5,8 @@
 발제 자료
 
 ### List
+* Oct 27, 2024    
+ LangChain Note (Teddynote), Ch06 Document Loader
 * Apr 14, 2024    
  Causal Inference for The Brave and True (Facure), Ch19 Evaluating Causal Models
 * Dec 17, 2023 & Jan 7, 2024    
