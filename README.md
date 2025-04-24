@@ -1,10 +1,10 @@
 # SundayAI
 "일요일은 AI" 스터디
 
-## Presentation
+## 📘 Presentations
 발제 자료
 
-### List
+### 📅 List
 * Oct 27, 2024    
  LangChain Note (Teddynote), Ch6 Document Loader
 * Apr 14, 2024    
@@ -16,7 +16,7 @@
 * Mar 26, 2023    
  Fluent Python (Ramalho), Ch9 Pythonic Object
 
-## License
+## 📄 License
 All presentation materials in this repository are licensed under  
 **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
 
