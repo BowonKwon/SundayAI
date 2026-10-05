@@ -16,6 +16,13 @@
 * Mar 26, 2023    
  Fluent Python (Ramalho), Ch9 Pythonic Object
 
+## 📗 Handbook
+자습서
+
+### 📅 List
+* Oct 5, 2026    
+ [생각하고, 행동하고, 고쳐 쓰는 기계 — Agentic AI 논문 읽기](https://github.com/BowonKwon/AI-Assisted-Handbooks/tree/main/agentic-ai-reading) (에이전트 스터디 자습서, AI-assisted)
+
 ## 📄 License
 All presentation materials in this repository are licensed under  
 **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
