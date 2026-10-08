@@ -20,6 +20,8 @@
 자습서
 
 ### 📅 List
+* Oct 8, 2026    
+ [AI 인프라와 반도체 — 통계·전산·AI 배경 학습자를 위한 일곱 회차 자습서](https://github.com/BowonKwon/AI-Assisted-Handbooks/tree/main/ai-infra-semiconductors) (반도체 스터디 자습서, AI-assisted)
 * Oct 5, 2026    
  [생각하고, 행동하고, 고쳐 쓰는 기계 — Agentic AI 논문 읽기](https://github.com/BowonKwon/AI-Assisted-Handbooks/tree/main/agentic-ai-reading) (에이전트 스터디 자습서, AI-assisted)
 
